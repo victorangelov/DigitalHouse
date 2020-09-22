@@ -4,8 +4,7 @@ function comecaComMaiuscula(palavra){
  }
  //array com as palavras
  var palavras = ["Amor", "copo", "Bolacha", "biscoito"]
- 
- // Seu código vem aqui embaixo.
+
  // Código que percorre o array e informa se a palavra começa com maisúcula ou não. 
  for(var i = 0; i < palavras.length; i++){
      if(comecaComMaiuscula(palavras[i]) == true){
