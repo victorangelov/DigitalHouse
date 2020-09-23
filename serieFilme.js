@@ -16,5 +16,4 @@ function serie(prefixo,series){
     return array
 }
 
-console.log(serie('Harry Potter',series))
-
+var a = serie('Harry Potter',series)
